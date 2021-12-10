@@ -1,40 +1,99 @@
-AlertOps Expert Guidance
+What is IT On-call?
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+An “on-call” / On call management worker is available to provide support at their employer’s request.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Your enterprise may have on-call management employees available across various departments, and these workers can help your business if problems arise, even outside of normal operating hours.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+How you manage your on-call management teams can have significant ramifications on your enterprise and its stakeholders.
 
-Automate Processes
+To understand why this is the case, let’s look at what it means to be “on-call,” along with tips and recommendations to help your enterprise on-call staff achieve its desired results.
+
+Definition:
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+If an employee is on-call, he or she is designated as available at specific times. Thus, if an incident arises when an employee is on-call, he or she is responsible for responding accordingly.
 
-Clarity
+If the employee ignores an incident or is not properly notified about it, the problem likely will escalate – and it won’t be resolved until this worker or another staff member responds.
+
+Ultimately, call staffing is an enterprise-wide priority. If your enterprise has tools in place to manage call personnel, it can ensure the right employees are notified about incidents, as soon as they happen.
+
+As a result, your enterprise can leverage  staff members – and ensure they can quickly mitigate incidents and limit their impact.
+
+Powerful and Reliable Escalation
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+On-call management is key for NOC, SOC, DevOps, and other IT teams. Because, if IT teams can properly manage personnel, they can prevent incidents from falling through the cracks.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+For instance, consider what will happen if an enterprise incident alert goes unaddressed after it is sent to staff members. In this scenario, the incident may grow in size and severity – and its ramifications could be substantial.
 
-Insightful Notifications
+Meanwhile, as the incident worsens, it could put a major dent in an enterprise’s bottom line. The incident may also lead to brand reputation damage and affect the enterprise’s ability to meet SLA requirements.
+
+When it comes to on-call management, your enterprise must plan ahead. Fortunately, there are many things your enterprise can do to optimize incident management across its departments, including:
+
+    Develop and Leverage Incident Escalation Policies: Create policies that ensure the right team members are alerted when an incident occurs. If these team members are unavailable, incident alerts must be escalated.
+    Send Alerts Until They Are Acknowledged: Ensure incident alerts are sent until an on-call staff member has confirmed receipt.
+    Monitor Audit Trails and Messages: Establish processes to verify who receives incident alerts, when these alerts are received, and how on-call staff members respond to them.
+    Ask for Feedback: Request feedback and continuously search for ways to improve on-call management.
+
+Along with the aforementioned tips, an call management solution can be beneficial. This solution empowers IT team members to see who is available, at any given time.
+
+Plus, the solution enables IT team members to keep in contact with one another until an incident is fully resolved.
+Schedules That Mobilize and Empower Call Engineers
+
+An on-call schedule defines which staff members are available at various times during normal business hours and outside of them.
+
+Enterprises use a variety of schedules, including:
+
+    Primary and Secondary: Consists of primary responders who are notified when an incident occurred, along with secondary responders who are notified if primary responders are unavailable.
+    Follow-the-Sun: Ensures  staff members are alerted based on their time zone.
+    Bi-Weekly: Involves changing staff members’ schedules every other week.
+    Inverse: Alternates team members as primary and secondary responders.
+
+Your enterprise is responsible for using a schedule that confirms its engineers and other staff members are available to respond to incidents 24/7.
+
+Otherwise, your enterprise could experience incidents outside of its traditional operating hours that go unresolved for an extended period of time.
+
+And the longer these incidents go unaddressed, the more damage they can cause to your enterprise and its stakeholders.
+Call Rotations Should Cover Any Scenario
+
+Whereas an on-call schedule provides a list of which on-call staff members are available at certain times, it does not account for work-life balance.
+
+Work-life balance is crucial for engineers and others who may be required to respond to incident alerts.
+
+If on-call personnel are scheduled too often, they risk burnout, due to the fact that they may inadvertently work long hours during the week.
+
+Conversely, modern call rotation software tools are available that may prevent this issue.
+
+call rotation tools are interactive and have built-in scheduling features. They also provide escalation policies that let enterprise users define rules on how alerts work and behave.
+
+The bottom line: on-call rotation tools make it simple to build complex schedules where  personnel can trade-off or swap schedules – and the right personnel are notified any time an incident occurs.
+
+on call
+
+A Closer Look at Support
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Once your enterprise determines the best course of action relative to call scheduling and on-call rotations, it must consider how it will optimize its support.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Your enterprise can enjoy many benefits if it maximizes its on-call support, including:
 
-1 Red Canary 2021 Threat Detection Report
+    Cost Savings: With support, your enterprise can minimize incidents that cause downtime and outages, along with associated lost productivity.
+    SLA Compliance: Thanks to support, you can avoid SLA violations associated with downtime and outages.
+    Customer Satisfaction:  support ensures your customers won’t have to worry about service disruptions.
+
+To get the most value out of support, your enterprise must establish clear-cut roles for its staff and define staff members’ responsibilities.
+
+Additionally, your enterprise should leverage schedules that fall in line with your day-to-day activities and monitor the results of your on-call management.
+
+Your enterprise should also consider using an incident management platform, so it can help on-call team members maintain ongoing communications throughout incidents.
+
+There is a lot to consider relative to on-call – but AlertOps can help.
+
+We offer an incident management platform that simplifies call management, scheduling, and support for IT teams of all sizes.
+
+
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/on-call/
 
 Read more:
 ====
